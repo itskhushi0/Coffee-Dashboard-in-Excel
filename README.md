@@ -12,22 +12,22 @@ It allows users to track sales trends, analyze customer behavior, and monitor or
 
 ## Coffee Dashboard Insights
 
-### The United States Takes the Crown in Coffee Sales
-The United States shines as the leading contributor to coffee sales revenue, surpassing all other nations.
+### United States Leads Coffee Sales
+The United States is the top contributor to global coffee sales revenue, surpassing all other countries.
 
-### Liberica Leads the Way in Revenue Generation
-Liberica coffee takes the top spot in revenue generation, showcasing its impact on the coffee industry.
+### Liberica as Top Revenue Contributor
+Liberica coffee generates the highest revenue among coffee types, highlighting its significant role in the market.
 
-### "Light" Roast Coffee Emerges as Revenue Leader
-Among various roast types, "Light" roast coffee stands out as the leader in revenue generation.
+### Light Roast Coffee Outperforms Other Roasts
+Among different roast types, light roast coffee leads in revenue generation.
 
 ### Coffee Sales by Country
-- **Ireland** - Liberica coffee outperforms other types in revenue in Ireland.  
-- **United States** - Arabica coffee secures the top spot for revenue generation in the United States.  
-- **United Kingdom** - Robusta coffee stands out as the revenue leader in the United Kingdom.  
+- **Ireland:** Liberica coffee generates the highest revenue.  
+- **United States:** Arabica coffee is the top revenue contributor.  
+- **United Kingdom:** Robusta coffee leads in revenue generation.
 
-### 🔝 Sales Soar in 2021 with a 13.6% Surge
-While 2019 and 2020 saw nearly identical sales figures, 2021 witnessed a significant boost with a 13.6% increase compared to the previous year, reflecting a thriving coffee market.
+### 2021 Sales Growth
+Sales in 2021 increased by 13.6% compared to the previous year. While 2019 and 2020 had nearly identical sales figures, the 2021 surge reflects a strong and growing coffee market.
 
 ### Data Sources
 The dashboard uses a dataset of coffee orders including:
